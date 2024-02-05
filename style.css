@@ -1,0 +1,50 @@
+
+body {
+    background: #6e848c;
+  text-align: center;
+  color: #d7d2db;
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: #4e038c;
+}
+.story-opening{
+  display:block
+}
+
+.option-one-screen{
+  display:none;
+}
+.option-three-end{
+  display:none;
+}
+.option-two-end{
+  display:none;
+}
